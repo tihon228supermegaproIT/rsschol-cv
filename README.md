@@ -1,1 +1,0 @@
-# rssschool-cv
