@@ -1,0 +1,195 @@
+header{
+    position: absolute;
+    width: 595px;
+    height: 109px;
+    left: 0px;
+    top: 0px;
+    
+    background: #EEEEF4;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);    
+}
+
+.header-logo {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 247px;
+    top: 59px;
+    
+   
+    z-index: 1;
+    border-radius: 50%; 
+}
+
+main {
+    position: absolute;
+    width: 595px;
+    height: 733px;
+    left: 0px;
+    top: 109px;
+    background: #F5F5F5;
+}
+
+.main-title {
+    position: absolute;
+    width: 205px;
+    height: 30px;
+    left: 195px;
+    top: 66px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    
+    color: #000000;
+    
+}
+
+.main-subtitle {
+    position: absolute;
+    width: 148px;
+    height: 20px;
+    right: 224px;
+    top: 123px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    
+    color: #000000;    
+}
+
+.line {
+    position: absolute;
+    width: 554px;
+    height: 0px;
+    left: 17px;
+    top: 256.5px;
+    
+    border: 1px solid #DDDDDD;    
+}
+
+.line2 {
+
+    position: absolute;
+    width: 554px;
+    height: 0px;
+    left: 17px;
+    top: 295.5px;
+    
+    border: 1px solid #DDDDDD;    
+}
+
+.line3 {
+    position: absolute;
+    width: 15px;
+    height: 0px;
+    left: 168px;
+    top: 283px;
+    
+    border: 1px solid #DDDDDD;
+    transform: rotate(90deg);    
+}
+
+.line4 {
+    position: absolute;
+    width: 15px;
+    height: 0px;
+    left: 422px;
+    top: 283px;
+    
+    border: 1px solid #DDDDDD;
+    transform: rotate(-90deg);    
+}
+
+.info-number {
+    position: absolute;
+    width: 131px;
+    height: 25px;
+    left: 24px;
+    top: 250px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 153% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #000000;
+    
+}
+
+.info-gmail {
+    position: absolute;
+    width: 221px;
+    height: 25px;
+    left: 181px;
+    top: 250px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 153% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #000000;
+    
+}
+
+.info-country {
+    position: absolute;
+    width: 127px;
+    height: 25px;
+    left: 442px;
+    top: 250px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 153% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #000000;
+    
+}
+
+.lini-center {
+    position: absolute;
+    width: 486px;
+    height: 0px;
+    left: 50px;
+    top: 555px;
+    
+    border: 1px solid #DDDDDD;
+    transform: rotate(-90.11deg);    
+}
+
+.info-title {
+    position: absolute;
+    width: 67px;
+    height: 30px;
+    left: 24px;
+    top: 290px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    
+    color: #000000;
+    
+}
